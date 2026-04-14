@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # If you prefer the allow list template instead of the deny list, see community template:
 # https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
 #
@@ -34,3 +35,9 @@ go.work.sum
 # Data outputs 
 *.csv
 *.json
+=======
+.env
+.env.*
+!.env.example
+*.csv
+>>>>>>> 269199e (init)
